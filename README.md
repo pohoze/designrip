@@ -41,7 +41,7 @@ Open index.html in your preferred code editor or IDE.
 1. Open index.html in your preferred code editor or IDE.
 2. Make your changes
 3. Create your own GitHub repository, commit and push your updates.
-4. Go to your repository GitHub page and open Settings. Check the Pages tab and Build and deployment section. If GitHub Actions option was selected, assets should be deployed to Pages and there will be an URL like `https://<username>.github.io/simple-telegram-mini-app/`. You can copy this URL and use it with [BotFather](https://tg.me/BotFather) bot to create your very own TWA.
+4. Go to your repository GitHub page and open Settings. Check the Pages tab and Build and deployment section. If GitHub Actions option was selected, assets should be deployed to Pages and there will be an URL like `https://pohoze.github.io/simple-telegram-mini-app/`. You can copy this URL and use it with [BotFather](https://tg.me/BotFather) bot to create your very own TWA.
 
 ### Customization
 Feel free to customize this web app to suit your needs. You can modify the HTML, CSS, and JavaScript files as required.
